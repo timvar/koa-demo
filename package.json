@@ -1,0 +1,14 @@
+{
+  "name": "koa_proj2",
+  "version": "1.0.0",
+  "description": "second koa project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
